@@ -1,0 +1,102 @@
+[
+  {
+    "position": 1,
+    "name": "EasyPayDirect",
+    "slug": "easypaydirect",
+    "description": "Known for powerful chargeback tools, ideal for supplement sellers.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/easypaydirect.jpg",
+    "target_audience_match": "Built for supplement stores facing chargeback pressure.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "PaymentCloud",
+    "slug": "paymentcloud",
+    "description": "Fast onboarding and crypto-friendly — great for supplement brands with bold claims.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paymentcloud.jpg",
+    "target_audience_match": "Perfect for brands needing fast approval despite health claims.",
+    "price": "From $29/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Durango Merchant Services",
+    "slug": "durango-merchant-services",
+    "description": "Longtime leader in high-risk payments for nutraceuticals.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/durango.jpg",
+    "target_audience_match": "Trusted for years by supplement companies.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Inovio Payments",
+    "slug": "inovio-payments",
+    "description": "Compliance-first processor for high-risk businesses.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/inovio.jpg",
+    "target_audience_match": "Ideal for companies prioritizing PCI and fraud mitigation.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "NOWPayments",
+    "slug": "nowpayments",
+    "description": "Crypto-first processor with recurring billing for supplement brands.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nowpayments.jpg",
+    "target_audience_match": "Great for crypto-native supplement sellers.",
+    "price": "Free plan available",
+    "data-link": "pending"
+  },
+  {
+    "position": 6,
+    "name": "Revitpay",
+    "slug": "revitpay",
+    "description": "Hands-on support for recurring billing and high-risk verticals.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/revitpay.jpg",
+    "target_audience_match": "Ideal for solo founders needing more support.",
+    "price": "From $39/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 7,
+    "name": "Soar Payments",
+    "slug": "soar-payments",
+    "description": "Known for supplement continuity support and safe approval.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/soarpayments.jpg",
+    "target_audience_match": "Popular choice for continuity model sellers.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 8,
+    "name": "PayKings",
+    "slug": "paykings",
+    "description": "Serves supplement and coaching verticals with ease.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paykings.jpg",
+    "target_audience_match": "Great if you also sell courses or coaching.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 9,
+    "name": "Adaptiv Payments",
+    "slug": "adaptiv-payments",
+    "description": "Mentioned often in Reddit ecom threads — known for flexibility.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/adaptiv.jpg",
+    "target_audience_match": "Favored by indie ecom founders.",
+    "price": "From $25/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 10,
+    "name": "Corepay",
+    "slug": "corepay",
+    "description": "Reliable for supplement brands with aggressive health claims.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/corepay.jpg",
+    "target_audience_match": "Useful for supplements that push health boundaries.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  }
+]
